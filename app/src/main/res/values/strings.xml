@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HorizontalRecyclerViewDemo</string>
+    <string name="show_recycler_items">Show Recycler Items</string>
+</resources>
